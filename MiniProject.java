@@ -24,7 +24,7 @@ public class MiniProject {
                 System.out.println("Ваша оценка не может быть выше 5.");
                 break;
             } else if (array[i] < 2) {
-                System.out.println("Ваша оценка не может быть ниже 2.б");
+                System.out.println("Ваша оценка не может быть ниже 2.");
                 break;
             }
         }
